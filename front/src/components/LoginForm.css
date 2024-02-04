@@ -1,0 +1,63 @@
+/* LoginForm.css */
+
+body {
+    background-color: #14582e;
+    color: #fff;
+}
+
+.tu-formulario-estilo {
+    background-color: #051d0a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(219, 2, 2, 0.1);
+    max-width: 600px; /* Haz el formulario más estrecho */
+    margin: auto; /* Centra el formulario en la página */
+    margin-top: 50px; /* Espaciado superior */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-label {
+    color: #fff;
+}
+
+.form-control {
+    background-color: #343a40;
+    color: #fff;
+    border-color: #495057;
+}
+
+.btn-primary {
+    background-color: #050605;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #064300;
+    border-color: #0056b3;
+    color: #fff;
+}
+
+.alert-danger {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+}
+
+
+
+.logo-container {
+    font-size: 8rem; /* Ajusta el tamaño del icono según tus necesidades */
+    color: #051d0a; /* Color del icono, puedes cambiarlo según tu diseño */
+    margin-bottom: 10px; /* Espaciado inferior del icono */
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.mb-3 {
+    width: 80%;
+}
